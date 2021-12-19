@@ -127,6 +127,9 @@ function MainPage() {
                   <option value="23424975">United Kingdom</option>
                   <option value="23424948">Singapore</option>
                   <option value="23424856">Japan</option>
+                  <option value="23424803">Ireland</option>
+                  <option value="23424748">Australia</option>
+                  <option value="23424775">Canada</option>
                 </select>
               </div>
             </div>
