@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "twitter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "author": "Raghav",
+  "license": "ISC"
+}

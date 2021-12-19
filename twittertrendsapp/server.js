@@ -54,4 +54,8 @@ if (process.env.NODE_ENV === "development")
       res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
     });
   }
+
+  app.listen(PORT, () =>  {
+    console.log(`Listening at http://localhost:${PORT}`);
+  })
   
