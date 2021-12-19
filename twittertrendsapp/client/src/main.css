@@ -1,0 +1,73 @@
+input, select {
+    padding: 10px;
+    width: 100%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.container {
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    padding: 30px !important;
+    margin: 30px;
+    text-align: center;
+}
+
+.message {
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.is-info {
+    background-color: #195e6c;
+}
+
+.is-danger {
+    background-color: rgba(255, 0, 0, 0.69);
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 2rem;
+    color: #FFFFFF;
+    padding: 15px 15px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    margin: 16px 0 !important;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+section {
+    border-radius: 10px;
+    padding: 1px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #a1c1da;
+    text-align: center;
+}
+
+span {
+    border-radius: 10px;
+    background-color: #27317b;
+    color: white;
+    padding: 10px;
+}
+
+form {
+    border-radius: 10px;
+    background-color: #277b68b8;
+    color: white;
+    padding: 10px;
+}
+
+.button:hover {
+    background-color: #38823c; /* Green */
+    color: white;
+}
